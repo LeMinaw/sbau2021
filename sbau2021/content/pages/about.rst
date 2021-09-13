@@ -10,6 +10,13 @@ Contact
 .. raw:: html
   :file: ../images/contacts.svg
 
+Press kit
+=========
+
+.. container:: presskit
+  
+  `Download <{static}/docs/presskit.pdf>`_
+
 The team
 ========
 

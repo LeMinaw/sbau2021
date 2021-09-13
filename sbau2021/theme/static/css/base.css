@@ -78,6 +78,13 @@ svg {
 }
 
 
+/* Presskit */
+
+.presskit a {
+    @apply p-3 font-bold hover:opacity-75 bg-black text-white shadow-md;
+}
+
+
 /* Inline SVG figures */
 
 svg a g {
