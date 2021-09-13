@@ -67,6 +67,9 @@ laws that prohibit the use of peasant varieties. Due to these
 restrictions, the genetic diversity of seeds has declined, and
 nowadays many peasant varieties have disappeared or are threatened.
 
+.. image:: {static}/images/woman_field.jpg
+  :alt: Woman with a field in the background
+
 Seed preservation is not only taken care by group of people and
 communities like the seeds keepers. Global projects that cross borders are
 also in place in Europe with the Svalbard Globale Frøhvelv or in korea
