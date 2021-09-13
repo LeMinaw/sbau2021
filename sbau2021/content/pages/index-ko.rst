@@ -51,21 +51,23 @@ Home
 종자의 유전적 다양성은 재배되고 소비되는 다양한 품종의 수에 귀속됩니다. 오늘날에는
 종별로 단 몇 가지 품종만 사용되지만, 항상 그래왔던 것은 아닙니다.
 
-
 예전에는 지역마다 재배되고 유지되는 토종 식물이 있었습니다. 그러나 지난 수십 년 동안
 농업 체계는 단일 재배 형식으로 바뀌었습니다. 이 과정에서 가장 생산적인 종자가
 선별되며, 업계에서는 해당 종자를 산업적인 방식으로 생산했습니다.
+
+.. image:: {static}/images/people_hills.jpg
+  :alt: People with hills in the background
 
 생산된 품종은 특허나 토종 품종의 사용을 금지하는 법률로 보호됩니다. 이러한 제약 때문에
 종자의 유전적 다양성이 감소하고 있으며, 오늘날 많은 토종 품종은 이미 멸종되었거나 멸종
 위협을 받고 있습니다.
 
-.. image:: {static}/images/woman_field.jpg
-  :alt: Woman with a field in the background
-
 종자는 종자 관리사를 포함한 공동체나 단체에 의해서만 보존되는 것은 아닙니다. 유럽에는
 스발바르 국제 종자 저장고(Svalbard global Frøhvelv)가 있고, 한국에는
 국립백두대간수목원 종자 저장소가 있습니다.
+
+.. image:: {static}/images/woman_field.jpg
+  :alt: Woman with a field in the background
 
 이처럼 다양한 국제적 프로젝트가 진행 중입니다. 두 저장소는 세계 각국의 종자를 관리하고
 있고, 종자의 수명을 연장하기 위해 영하 20도에 종자들을 동결보존해서 종자의 다양성을
@@ -122,12 +124,12 @@ Home
 집을 짓는 데 사용할 흙벽돌부터 식물을 키울 때 사용하는 기본적인 재료까지 모든 것을
 땅을 사용해 만들어 냈습니다.
 
+그들이 필요한 모든 것은 땅에 있었습니다.
+
 .. vimeo:: 601734342
   :playsinline: 0
   :byline: 0
   :color: ffffff
-
-그들이 필요한 모든 것은 땅에 있었습니다.
 
 .. _exchanges:
 
